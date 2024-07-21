@@ -6,7 +6,6 @@ This is a simple smart contract that adheres to the standards of ERC20 token lik
 
 ### Features
 
-Features
 * Minting: Only the contract owner can mint new tokens.
 * Burning: Any user can burn their own tokens.
 * Transferring: Any user can transfer their tokens to another address.
